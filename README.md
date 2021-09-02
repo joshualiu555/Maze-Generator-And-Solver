@@ -5,6 +5,8 @@ Language: Python and Pygame
 
 Algorithm: Randomized DFS / Floodfill / Recursive Backtracking
 
+[Link to Project](https://replit.com/@joshualiu555/Pixel-Art-Maker)
+
 [Wikipedia Algorithm Pseudocode](https://en.wikipedia.org/wiki/Maze_generation_algorithm)
 
 [Inspired by The Coding Train](https://www.youtube.com/watch?v=HyK_Q5rrcr4rl)
